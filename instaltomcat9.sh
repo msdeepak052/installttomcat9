@@ -2,7 +2,7 @@
 sudo yum install java-1.8.* -y
 cd /opt
 sudo yum install wget -y
-sudo yyum install net-tools -y 
+sudo yum install net-tools -y 
 sudo wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.95/bin/apache-tomcat-9.0.95.tar.gz
 sudo tar -xvf apache-tomcat-9.0.95.tar.gz
 sudo rm apache-tomcat-9.0.95.tar.gz
